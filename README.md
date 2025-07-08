@@ -10,7 +10,7 @@
 <h3 align="center">Tecnología en Desarrollo de Sistemas de Información y Software | Estudiante </h3>
 <p align="center">
 <div align="center">
-<a href="mailto:abd.hailyn.2008hailyn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="2008hailyn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hailyn-pacheco-099322368/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/dearlynng"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -52,6 +52,7 @@
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 
